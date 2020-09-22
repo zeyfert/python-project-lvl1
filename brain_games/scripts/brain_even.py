@@ -1,5 +1,3 @@
-#!/usr/bin/evn python3
-
 """Brain Even running script."""
 
 from brain_games import engine

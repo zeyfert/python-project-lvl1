@@ -6,7 +6,6 @@ def start_game(game):
     print(game.DESCRIPTION, '\n')
     name = string('May I have your name? ')
     print('Hello, {}!\n'.format(name))
-
     correct_answers = 0
     while correct_answers < 3:
         question, result = game.get_question_and_result().values()
@@ -20,6 +19,5 @@ def start_game(game):
         else:
             print('Correct!')
             correct_answers += 1
-
     if correct_answers == 3:
         print('Congratulations, {}'.format(name))
