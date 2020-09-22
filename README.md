@@ -1,6 +1,6 @@
 # python-project-lvl1
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/4814ed79fa80687a9e72/maintainability)](https://codeclimate.com/github/zeyfert/python-project-lvl1/maintainability) ![Python CI]    (https://github.com/Groot-Lindemann/python-project-lvl1/workflows/Python%20CI/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/4814ed79fa80687a9e72/maintainability)](https://codeclimate.com/github/zeyfert/python-project-lvl1/maintainability) ![Python CI](https://github.com/Groot-Lindemann/python-project-lvl1/workflows/Python%20CI/badge.svg)
 
 Would you like to train your brain? We have something for you :)
 Enjoy the Brain Games!
