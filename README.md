@@ -24,7 +24,7 @@ You can find here 5 games. Which one do you prefer?
 
 **Brain Calc**<br>
 *Successfully*<br>
-[![asciicast](https://asciinema.org/a/WKAvXyS5vvKtkJwnRNdxY9KOC.svg)](https://asciinema.org/a/WKAvXyS5vvKtkJwnRNdxY9KOC)
+[![asciicast](https://asciinema.org/a/WtxAC7whEncMdd2U32biQZfd4.svg)](https://asciinema.org/a/WtxAC7whEncMdd2U32biQZfd4)
 *Failed*<br>
 [![asciicast](https://asciinema.org/a/vxuH1Vda2KqAQAiMpwsB0Vqz3.svg)](https://asciinema.org/a/vxuH1Vda2KqAQAiMpwsB0Vqz3)
 
