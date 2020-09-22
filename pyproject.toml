@@ -1,12 +1,13 @@
 [tool.poetry]
-name = "Groot-Lindemann_brain_games"
-version = "0.1.5"
-description = "A simple game containted 5 steps with different task"
+name = "zeyfert_brain_games"
+version = "0.1.6"
+description = "The applicaton contains 5 games based on logic and counting with numbers"
 classifiers = [
-    "Environment :: Console"
+    "Topic :: Games/Entertainment",
+    "Environment :: Console",
 ]
 authors = ["Maxim <maxim.zeyfert@gmail.com>"]
-repository = "https://test.pypi.org/simple/ groot-lindemann-brain-games"
+repository = "https://github.com/zeyfert/python-project-lvl1"
 packages = [
     { include = "brain_games" },
 ]
