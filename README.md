@@ -10,12 +10,11 @@ How to install (Ubuntu):
 1. python3 -m venv brain-games
 2. source brain-games/bin/activate
 3. pip install prompt
-4. pip install -i https://test.pypi.org/simple/ groot-lindemann-brain-games
+4. pip install -i https://test.pypi.org/simple/ zeyfert-brain-games
 ```
+[![asciicast](https://asciinema.org/a/2acuSXL9HX55LvwUKsXxx9B8I.svg)](https://asciinema.org/a/2acuSXL9HX55LvwUKsXxx9B8I)
 
-[![asciicast](https://asciinema.org/a/H07gMIrAZzvECti3fEbPSdHOE.svg)](https://asciinema.org/a/H07gMIrAZzvECti3fEbPSdHOE)
-
-You can find there 5 games. Which one do you prefer?
+You can find here 5 games. Which one do you prefer?
 
 **Brain Even**<br>
 *Successfully*<br>
@@ -25,7 +24,7 @@ You can find there 5 games. Which one do you prefer?
 
 **Brain Calc**<br>
 *Successfully*<br>
-[![asciicast](https://asciinema.org/a/KawrYdkuOYPf3PjVnADTtAekq.svg)](https://asciinema.org/a/KawrYdkuOYPf3PjVnADTtAekq)
+[![asciicast](https://asciinema.org/a/WKAvXyS5vvKtkJwnRNdxY9KOC.svg)](https://asciinema.org/a/WKAvXyS5vvKtkJwnRNdxY9KOC)
 *Failed*<br>
 [![asciicast](https://asciinema.org/a/vxuH1Vda2KqAQAiMpwsB0Vqz3.svg)](https://asciinema.org/a/vxuH1Vda2KqAQAiMpwsB0Vqz3)
 
