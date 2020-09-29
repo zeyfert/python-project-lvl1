@@ -9,10 +9,10 @@ OPERATORS = ('+', '-', '*')
 def get_question_and_result():
     operator = choice(OPERATORS)
     value_1, value_2 = randint(0, 10), randint(0, 10)
-    return {
-        'question': '{} {} {}'.format(value_1, operator, value_2),
-        'result': str(calculate(operator, value_1, value_2)),
-    }
+    return (
+         '{} {} {}'.format(value_1, operator, value_2),
+         str(calculate(operator, value_1, value_2)),
+    )
 
 
 def calculate(func, value_1, value_2):

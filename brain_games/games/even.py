@@ -14,10 +14,7 @@ def get_question_and_result():
     """
     value = randint(1, 10)
     result = 'yes' if is_even(value) else 'no'
-    return {
-        'question': value,
-        'result': result,
-    }
+    return (value, result)
 
 
 def is_even(value):

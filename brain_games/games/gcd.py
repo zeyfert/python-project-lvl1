@@ -6,10 +6,10 @@ DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
 def get_question_and_result():
     value_1, value_2 = randint(1, 100), randint(1, 100)
-    return {
-        'question': '{} {}'.format(value_1, value_2),
-        'result': str(get_gcd(value_1, value_2))
-    }
+    return (
+         '{} {}'.format(value_1, value_2),
+         str(get_gcd(value_1, value_2)),
+    )
 
 
 def get_gcd(value_1, value_2):
