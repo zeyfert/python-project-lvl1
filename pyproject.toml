@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "zeyfert_brain_games"
-version = "0.1.6"
+version = "0.1.7"
 description = "The applicaton contains 5 games based on logic and counting with numbers"
 classifiers = [
     "Topic :: Games/Entertainment",
